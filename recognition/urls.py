@@ -8,6 +8,7 @@ app_name = "recognition"
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
+    url(r'showPictures/$', views.showPictures, name="showPictures")
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

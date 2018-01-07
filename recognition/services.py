@@ -23,7 +23,7 @@ def irgendwas():
     # only run this method for the first time (so that you get the filtered images), you can then comment it out again
     # initGPSFiltering()
     # findFace()
-    colorDetection()
+    # colorDetection()
     # findPedestrian()
     return("I am irgendwas!")
 
@@ -326,3 +326,21 @@ def checkForColor(name, id):
                     return "Statue"
                 else:
                     return "Human"
+
+
+def readRankFile():
+    file = open("recognition\\ranking", "r")
+    images = []
+    for line in file:
+        words = line.split()
+        images.append(words[2])
+
+    return images
+
+def getLocationNames():
+    locations = ["Angel of the north", "Big Ben", "Hearst Castle", "La Madeleine", "Pont Alexandre III", "Neues Museum",
+                 "Monetezuma Castle", "CN Tower","Acropolis Athens", "Agra Fort","Albert Memorial","Altes Museum", "Amiens Cethedral",
+                 "Angkor Wat", "Ara Pacis", "Arc de Triomphe","Aztec Ruins","Berlin Cathedral","Bok Tower Gardens","Brandenburg Gate",
+                 "Cabrillo","Casa Battlo","Casa Rosada","Castillo de san Marcos","Cartres Cathedral","Chichen Itza","Christ the redeemer rio",
+                 "Civic Center San Francisco", "Cologne Cathedral", "Colosseum"]
+    return locations
