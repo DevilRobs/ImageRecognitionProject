@@ -25,7 +25,7 @@ SECRET_KEY = '&kp16($yukut+mt$=94qnb+1s=9k@c698j*c9rixxmg21hl-hs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
