@@ -343,4 +343,7 @@ def getLocationNames():
                  "Angkor Wat", "Ara Pacis", "Arc de Triomphe","Aztec Ruins","Berlin Cathedral","Bok Tower Gardens","Brandenburg Gate",
                  "Cabrillo","Casa Battlo","Casa Rosada","Castillo de san Marcos","Cartres Cathedral","Chichen Itza","Christ the redeemer rio",
                  "Civic Center San Francisco", "Cologne Cathedral", "Colosseum"]
+
+    os.listdir("somedirectory")
+
     return locations

@@ -35,9 +35,7 @@
             <h1>No result, found :(</h1>
         {% else %}
             {% for im in imageIds %}
-                {% with 'recognition/images/img/'|add:im|add:".jpg" as image_static %}
-                    <img src="{% static image_static %}">
-                {% endwith %}
+                <img src="http://www.cp.jku.at/misc/div-2014/devset/img/{{ location }}/{{ im }}.jpg">
             {% endfor %}
         {% endifequal %}
     {% else %}

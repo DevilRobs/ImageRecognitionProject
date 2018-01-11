@@ -1,6 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponse
-from django.urls import reverse
 
 from recognition.services import *
 
@@ -20,8 +18,6 @@ def showPictures(request):
     #Prepare selected location
     location = request.POST["location"].lstrip().rstrip().replace(" ","_").lower()
 
-
-
     #Check location name
     file = open("recognition\\static\\recognition\\database\\poiNameCorrespondences.txt", "r")
     for line in file:
@@ -35,6 +31,7 @@ def showPictures(request):
 
     context = {
         "imageIds": imageIds,
+        "location": location,
         "locationNames": getLocationNames()
     }
     return render(request, "recognition/index.html", context)
