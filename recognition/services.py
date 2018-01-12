@@ -19,29 +19,38 @@ allNames = []
 
 # Put your code here!!!!
 def irgendwas():
-    # initNameCorrespondences()
-    # only run this method for the first time (so that you get the filtered images), you can then comment it out again
-    # initGPSFiltering()
-    # findFace()
-    # colorDetection()
-    # findPedestrian()
     return("I am irgendwas!")
 
 
-def readRankFile():
-    file = open("recognition\\ranking", "r")
+def readRankFile(location):
+
+    c = 31
+
+    file = open("recognition//static//recognition//database//poiNameCorrespondences.txt", "r")
+    for i, line in enumerate(file):
+        l = line.split("\t")
+        if l[1][:-1] == location:
+            break
+
+        c += 1
+
+
+    file = open("recognition//ranking", "r")
     images = []
     for line in file:
         words = line.split()
-        images.append(words[2])
+        if words[0] == str(c):
+            images.append(words[2])
+            if len(images) == 50:
+                break
 
     return images
 
 def getLocationNames():
     locations = []
 
-    file = open("recognition\\static\\recognition\\database\\poiNameCorrespondences.txt", "r")
-    for line in file:
+    file = open("recognition//static//recognition//database//poiNameCorrespondences.txt", "r")
+    for i, line in enumerate(file):
         l = line.split("\t")
         locations.append(l[0])
 

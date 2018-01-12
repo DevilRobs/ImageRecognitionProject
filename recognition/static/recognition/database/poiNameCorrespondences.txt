@@ -1,30 +1,123 @@
-angel of the north	angel_of_the_north
-big ben	big_ben
-hearst castle	hearst_castle
-la madeleine	la_madeleine
-pont alexandre iii	pont_alexandre_iii
-neues museum	neues_museum
-montezuma castle	montezuma_castle
-cn tower	cn_tower
-acropolis athens	acropolis_athens
-agra fort	agra_fort
-albert memorial	albert_memorial
-altes museum	altes_museum
-amiens cathedral	amiens_cathedral
-angkor wat	angkor_wat
-ara pacis	ara_pacis
-arc de triomphe	arc_de_triomphe
-aztec ruins	aztec_ruins
-berlin cathedral	berlin_cathedral
-bok tower gardens	bok_tower_gardens
-brandenburg gate	brandenburg_gate
-cabrillo	cabrillo
-casa batllo	casa_batllo
-casa rosada	casa_rosada
-castillo de san marcos	castillo_de_san_marcos
-chartres cathedral	chartres_cathedral
-chichen itza	chichen_itza
-christ the redeemer rio	christ_the_redeemer_rio
-civic center san francisco	civic_center_san_francisco
-cologne cathedral	cologne_cathedral
-colosseum	colosseum
+doge's palace	doge_s_palace
+eiffel tower	eiffel_tower
+golden gate bridge	golden_gate_bridge
+grand palais	grand_palais
+guggenheim museum bilbao	guggenheim_museum_bilbao
+hagia sophia istanbul	hagia_sophia_istanbul
+hoover dam	hoover_dam
+humayun tomb	humayun_tomb
+iguazu falls	iguazu_falls
+iolani palace	iolani_palace
+la mezquita	la_mezquita
+la rambla barcelona	la_rambla_barcelona
+la sainte chapelle	la_sainte_chapelle
+liberty memorial	liberty_memorial
+lincoln home	lincoln_home
+machu picchu	machu_picchu
+marble arch london	marble_arch_london
+milan cathedral	milan_cathedral
+mole antonelliana	mole_antonelliana
+mont saint-michel	mont_saint_michel
+moulin rouge	moulin_rouge
+nelson's column	nelson_s_column
+notre dame de paris	notre_dame_de_paris
+obelisco	obelisco
+piccadilly circus	piccadilly_circus
+place de la concorde	place_de_la_concorde
+place de la republique	place_de_la_republique
+place des vosges	place_des_vosges
+pont du gard	pont_du_gard
+pont neuf	pont_neuf
+ponte vecchio	ponte_vecchio
+puerta de alcala	puerta_de_alcala
+puerta del sol	puerta_del_sol
+red fort	red_fort
+reims cathedral	reims_cathedral
+rialto bridge	rialto_bridge
+roman forum rome	roman_forum_rome
+sacre coeur	sacre_coeur
+sagrada familia	sagrada_familia
+santa maria novella	santa_maria_novella
+schonbrunn palace	schonbrunn_palace
+seville cathedral	seville_cathedral
+spanish steps	spanish_steps
+st. basil cathedral	st__basil_cathedral
+statue of liberty	statue_of_liberty
+stonehenge	stonehenge
+summer palace beijing	summer_palace_beijing
+sydney opera house	sydney_opera_house
+teotihuacan	teotihuacan
+terracotta army	terracotta_army
+the blue mosque	the_blue_mosque
+the henry ford	the_henry_ford
+taj mahal	taj_mahal
+tour montparnasse	tour_montparnasse
+tower bridge london	tower_bridge_london
+trafalgar square	trafalgar_square
+leaning tower of pisa	leaning_tower_of_pisa
+hermitage museum saint petersburg	hermitage_museum_saint_petersburg
+jantar mantar jaipur	jantar_mantar_jaipur
+lake titicaca peru	lake_titicaca_peru
+the great wall of china	the_great_wall_of_china
+grande arche paris	grande_arche_paris
+el angel mexico	el_angel_mexico
+bibliotheque nationale de france	bibliotheque_nationale_de_france
+kronborg castle	kronborg_castle
+ajanta caves	ajanta_caves
+atomium	atomium
+ellora caves	ellora_caves
+potala palace	potala_palace
+jokhang	jokhang
+rila monastery	rila_monastery
+louvre pyramid	louvre_pyramid
+brooklyn bridge	brooklyn_bridge
+tower of london	tower_of_london
+british museum london	british_museum_london
+buckingham palace 	buckingham_palace
+charles bridge prague	charles_bridge_prague
+champs elysees paris	champs_elysees_paris
+chrysler building	chrysler_building
+moma new york	moma_new_york
+grand central terminal	grand_central_terminal
+houses of parliament	houses_of_parliament
+alexanderplatz berlin	alexanderplatz_berlin
+centre pompidou	centre_pompidou
+sydney harbour bridge	sydney_harbour_bridge
+pier 39	pier_39
+coit tower	coit_tower
+st paul's cathedral london	st_paul_s_cathedral_london
+cloud gate	cloud_gate
+musee d'orsay	musee_d_orsay
+pike place market	pike_place_market
+royal palace madrid	royal_palace_madrid
+sony center berlin	sony_center_berlin
+red square moscow	red_square_moscow
+prague castle	prague_castle
+musee du louvre	musee_du_louvre
+millennium bridge london	millennium_bridge_london
+casa mila	casa_mila
+national gallery london	national_gallery_london
+national mall	national_mall
+london city hall	london_city_hall
+holocaust memorial	holocaust_memorial
+columbus circle	columbus_circle
+siegessaeule	siegessaeule
+jardin du luxembourg	jardin_du_luxembourg
+merlion singapore	merlion_singapore
+harrods london	harrods_london
+metropolitan museum of art new york	metropolitan_museum_of_art_new_york
+new york stock exchange	new_york_stock_exchange
+stephansdom vienna	stephansdom_vienna
+hms belfast	hms_belfast
+leicester square	leicester_square
+ciudad de las artes y las ciencias	ciudad_de_las_artes_y_las_ciencias
+topkapi palace	topkapi_palace
+royal albert hall	royal_albert_hall
+st vitus cathedral 	st_vitus_cathedral
+castello sforzesco	castello_sforzesco
+rijksmuseum amsterdam	rijksmuseum_amsterdam
+dam square	dam_square
+rathaus vienna	rathaus_vienna
+bath abbey	bath_abbey
+salisbury cathedral	salisbury_cathedral
+templo de debod	templo_de_debod
